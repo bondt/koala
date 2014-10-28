@@ -1,0 +1,17 @@
+{
+	"languageName": "Nederlands",
+
+	"languageCode": "nl_nl",
+
+	"version": "1.0.0",
+
+	"translator": {
+		"name": "Bondt",
+		"email": "github-koala@mldb.nl",
+    	"web": "http://www.mldb.nl?r=koala-nl-github"
+	},
+
+	"koalaVersion": ">=2.0.0",
+
+	"updatedDate": "2014-10-28"
+}
