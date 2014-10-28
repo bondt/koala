@@ -1,0 +1,147 @@
+{
+	"Minimize": "Minimaliseren",
+
+	"Close": "Sluiten",
+
+	"Add Folder": "Map toevoegen",
+
+	"Log": "Log",
+
+	"Settings": "Instellingen",
+
+	"Drag and drop a folder to add project.": "Sleep een map op dit venster om een project toe te voegen.",
+
+	"Refresh": "Herladen",
+
+	"Settings": "Instellingen",
+	
+	"General": "Algemeen",
+	
+	"About": "Over",
+	
+	"Language:": "Taal:",
+	
+	"Minimize To Tray": "Minimaliseren naar tray",
+	
+	"Minimize On Startup": "Geminimaliseerd starten",
+	
+	"Filter:": "Filter:",
+	
+	"e.g": "bijvoorbeeld",
+
+	"Default Options:": "Standaardopties:",
+
+	"No options.": "Geen opties.",
+	
+	"compass project configuration instructions" : "Bewerk het config.rb-bestand in je projectmap. Als deze map het bestand niet heeft, kun je deze zo maken: rechtermuisknop op het project-item --> project instellingen --> nieuwe instellingen --> voor compass. Als het config.rb-bestand in een andere map is, verplaats het dan naar de root-map van het project the project en verander de \"http_path\" waarden.",
+	
+	"Project Website:": "Projectwebsite:",
+	
+	"Bug Report:": "Foutenrapport:",
+	
+	"[@settings.html]Version:": "Versie:",
+	
+	"Check Upgrade": "Naar update zoeken",
+	
+	"Checking...": "Zoekt...",
+	
+	"new version available": "Koala v<span id=\"newVersion\"></span> is beschikbaar,",
+	
+	"Download Now": "Nu downloaden",
+	
+	"This is the lastest version.": "Dit is de laatste versie.",
+	
+	"Thanks:": "Met dank aan:",
+	
+	"Translator:": "Vertaler:",
+	
+	"Built-in package versions:": "Ingebouwde pakketversies:",
+	
+	"Ok": "Oké",
+	
+	"Cancel": "Annuleren",
+
+	"Default Options": "Standaardopties",
+
+	"Advanced": "Geavanceerd",
+
+	"Advanced Settings": "Geavanceerde instellingen",
+
+	"Using System Commands:": "Gebruikte systeemcommando's:",
+
+	"Libraries Version": "Bibliotheken versie",
+
+	"Maintainers": "Authoren",
+
+	"Uninstall This Extension": "Deze extensie deïnstallieren",
+
+	"Contributors:": "Bijdragers:",
+
+	"Docs:": "Documentatie:",
+
+	"Help": "Help",
+
+	"Use Custom Ruby": "Eigen Ruby versie gebruiken",
+
+	"Use the Ruby executable at this path": "Ruby programma onder dit pad gebruiken",
+
+	"Browse Extensions": "Extensies doorzoeken",
+
+	"Ignores": "Negeren",
+
+	"Include Paths": "Paden omvatten",
+
+	"Default": "Standaard",
+
+	"Notification": "Notificatie",
+	
+	"Error": "Fout",
+	
+	"Close": "Sluiten",
+
+	"Log": "Log",
+	
+	"Error Log": "Error-log",
+	
+	"Clear All": "Alles vrijmaken",
+
+	"auto compile": "automatische compileren",
+	
+	"output style:": "Output-stijl:",
+	
+	"[@jadetmpl.html]options:": "Opties:",
+	
+	"[@jadetmpl.html]compile": "Compileren",
+
+	"Use the System LESS compiler": "Systeem LESS compiler gebruiken",
+
+	"Use the LESS executable at this path": "LESS programma onder dit pad gebruiken",
+
+	"Default: lessc": "Standaard: lessc",
+
+	"Use the System Sass compiler": "System Sass compiler gebruiken",
+
+	"Use the Sass executable at this path": "Sass programma onder dit pad gebruiken",
+
+	"Default: sass": "Standaard: sass",
+
+	"Use the System Compass compiler": "System Compass compiler gebruiken",
+
+	"Use the Compass executable at this path": "Compass programma onder dit pad gebruiken",
+
+	"Default: compass": "Standaard: compass",
+
+	"Use the System CoffeeScript compiler": "System CoffeeScript compiler gebruiken",
+
+	"Use the CoffeeScript executable at this path": "CoffeeScript programma onder dit pad gebruiken",
+
+	"Default: coffee": "Standaard: coffee",
+
+	"Use the System Dust compiler": "System Dust compiler gebruiken",
+
+	"Use the Dust executable at this path": "Dust programma onder dit pad gebruiken",
+
+	"Default: dustc": "Standaard: dustc",
+
+	"Output Style": "Output-stijl"
+}
