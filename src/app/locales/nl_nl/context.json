@@ -1,0 +1,23 @@
+// language pack of context
+{
+	// tips
+	"New Version Found": "Nieuwe versie gevonden v${1}, nu downloaden?",
+
+	"Some Compile errors, please see the compile log": "Compile-fouten opgetreden, zie compile-log.<br>${1} goed gegaan, ${2} fouten opgetreden.",
+
+	"x new file": "${1} nieuw bestand",
+
+	"Settings file was created in the project directory. Do you want to edit it now?": "${1} is aangemaakt in de projectmap.<br>Nu bewerken?",
+
+	"Settings file has already exists. Do you want to edit it?": "${1} bestaat al. Nu bewerken?",
+
+	"Language pack is installed successfully.": "${1} taalpakket succesvol geïnstalleerd.",
+
+	"language pack update notification": "Het huidige taalpakket heeft een update, nu updaten?",
+
+	"Package is not complete": "Pakket is niet compleet, dit ontbreekt: ${1}",
+
+	"Compiler pack is installed successfully.": "\"${1}\" compiler is succesvol geïnstalleerd.",
+
+	"compiler pack update notification": "Nieuwe versie gevonden voor deze compilers.<br>${1}"
+}
